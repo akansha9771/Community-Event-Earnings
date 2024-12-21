@@ -5,6 +5,8 @@ CommunityEventEarnings is a decentralized smart contract designed to facilitate 
 
 ## Contract Address
 0x69eB0AADCdFE4EECAd216E3B1Fe645238bDfd375
+![image](https://github.com/user-attachments/assets/79ac9984-58fe-4355-8cc1-89b53c6b3802)
+
 
 ## Project Vision
 The vision of CommunityEventEarnings is to empower community organizers by providing a transparent and efficient platform for managing events and handling finances. By leveraging blockchain technology, we aim to create a trustworthy environment where contributors can support events and organizers can easily manage their earnings.
